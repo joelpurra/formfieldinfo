@@ -7,7 +7,7 @@
  * This information is then used to filter out potential form problems, like missing
  * values for radio buttons etcetera.
  */
-// https://gist.github.com/
+// https://gist.github.com/3161982
 //
 // Runtime dependencies
 // - jQuery http://jquery.com/
