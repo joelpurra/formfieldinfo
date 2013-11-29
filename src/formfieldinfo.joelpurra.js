@@ -8,12 +8,12 @@
  * A javacript plugin used to collect information about forms in a page.
  */
 
-/*jslint white: true, browser: true, nomen: true, todo: true*/
-/*global jQuery, _ */
+/*jslint white: true, nomen: true, todo: true*/
+/*global document: true, jQuery: true, _: true, JoelPurra: true */
 
 var JoelPurra = JoelPurra || {};
 
-(function($, _, namespace) {
+(function(document, $, _, namespace) {
     "use strict";
     var ns = namespace.FormFieldInfo = namespace.FormFieldInfo || {},
         Field = function(element) {
@@ -227,4 +227,4 @@ var JoelPurra = JoelPurra || {};
     _.mixin(fieldsMixins);
     _.mixin(fieldGroupsMixins);
 
-}(jQuery, _, JoelPurra));
+}(document, jQuery, _, JoelPurra));
