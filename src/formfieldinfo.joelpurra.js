@@ -5,7 +5,7 @@
  *
  * https://github.com/joelpurra/formfieldinfo
  *
- * A javacript plugin used to collect information about forms in a page.
+ * A javascript plugin used to collect information about forms in a page.
  */
 
 /*jslint white: true, nomen: true, todo: true*/
