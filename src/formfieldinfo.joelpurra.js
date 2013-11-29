@@ -3,22 +3,11 @@
  * Copyright © 2012 Joel Purra <http://joelpurra.com/>
  * Released under MIT, BSD and GPL license. Comply with at least one.
  *
+ * https://github.com/joelpurra/formfieldinfo
+ *
  * A javacript plugin used to collect information about forms in a page.
- * This information is then used to filter out potential form problems, like missing
- * values for radio buttons etcetera.
  */
-// https://gist.github.com/3161982
-//
-// Runtime dependencies
-// - jQuery http://jquery.com/
-// - underscore http://underscorejs.org/
-//
-// TODO:
-// - Normalize select with options to match input:checkbox/:radio? Both are similar in form functionality, 
-//   but selects only appear once in the getFields() results. Select fields could be expanded with each option.
-// - Write/fix inline documentation with JSDoc-Toolkit.
-//   http://code.google.com/p/jsdoc-toolkit/w/list
-//
+
 /*jslint white: true, browser: true, nomen: true, todo: true*/
 /*global jQuery, _ */
 
