@@ -1,6 +1,6 @@
 /*!
  * @license FormFieldInfo
- * Copyright © 2012 Joel Purra <http://joelpurra.se/>
+ * Copyright © 2012 Joel Purra <http://joelpurra.com/>
  * Released under MIT, BSD and GPL license. Comply with at least one.
  *
  * A javacript plugin used to collect information about forms in a page.
