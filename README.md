@@ -71,19 +71,19 @@ var fieldSummaries = JoelPurra.FormFieldInfo
 
 
 ## Runtime dependencies
-- [jQuery](http://jquery.com/)
-- [underscore](http://underscorejs.org/)
+- [jQuery](https://jquery.com/)
+- [underscore](https://underscorejs.org/)
 
 
 
 ## Todo
 - Normalize `<select>` with options to match `<input type="checkbox" />` and type `radio`? Both are similar in form functionality, but selects only appear once in the `getFields()` results. Select fields could be expanded with each `<option>`.
-- Write/fix inline documentation with [JSDoc-Toolkit](http://code.google.com/p/jsdoc-toolkit/w/list).
+- Write/fix inline documentation with [JSDoc-Toolkit](https://code.google.com/p/jsdoc-toolkit/w/list).
 
 
 
 ## License
-Copyright (c) 2012, 2013, 2014, 2015 Joel Purra <http://joelpurra.com/>
+Copyright (c) 2012, 2013, 2014, 2015 Joel Purra <https://joelpurra.com/>
 All rights reserved.
 
 When using FormFieldInfo, comply to at least one of the three available licenses: BSD, MIT, GPL.
