@@ -4,6 +4,12 @@ A javascript plugin used to collect information about forms in a page. This info
 
 
 
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 ## Usage
 
 ```javascript
